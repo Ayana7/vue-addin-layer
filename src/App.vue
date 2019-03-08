@@ -2,7 +2,7 @@
   <div id="app">
     <h1>{{ msg }}</h1>
     <button @click="childrenFun">点击测试layer插件</button>
-    <test-toast ref="layer"></test-toast>
+    <vue-addin-layer ref="layer"></vue-addin-layer>
   </div>
 </template>
 

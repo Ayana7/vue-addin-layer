@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-  name: "test-toast",
+  name: "vue-addin-layer",
   data() {
     return {
       text: "",
