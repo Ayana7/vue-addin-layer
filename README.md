@@ -3,7 +3,7 @@ vue layer插件
 
 ## Installation
 
-`npm install vue-l-lazyload`
+`npm install vue-addin-layer`
 
 ## Usage
 ### A simple way:
