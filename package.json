@@ -1,7 +1,7 @@
 {
   "name": "vue-addin-layer",
   "description": "A comment plugin by layer-demo",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "duanlihua <13787599570@163.com>",
   "license": "MIT",
   "main": "dist/layerAddin.js",

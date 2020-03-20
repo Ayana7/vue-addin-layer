@@ -8,7 +8,7 @@ vue layer插件
 ## Usage
 ### A simple way:
 ```javascript
-import vueAddinPlayer from './lib/index.js'
+import vueAddinPlayer from 'vue-addin-layer'
 Vue.use(vueAddinPlayer);
 ```
 ```html
@@ -17,7 +17,7 @@ Vue.use(vueAddinPlayer);
 
 ### A more configurable way:
 ```javascript
-import vueAddinPlayer from './lib/index.js'
+import vueAddinPlayer from 'vue-addin-layer'
 Vue.use(vueAddinPlayer);
 ```
 ```html
